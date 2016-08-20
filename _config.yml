@@ -1,0 +1,14 @@
+layout_spectrum: 0.37184884678572416
+typography_spectrum: 0.36358555336482823
+color:
+  brandStrength: 0.2904446916654706
+  lightness: 0.6573338273447007
+  saturation: 0.8006383664906025
+  rhythmicContrast: 0.515621876809746
+  brandColors:
+    - '#CABBA9'
+    - '#6CACA3'
+    - '#0C2E40'
+    - '#255F75'
+    - '#66443A'
+name: Modern Vintage
